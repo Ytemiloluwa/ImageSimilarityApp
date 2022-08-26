@@ -16,6 +16,4 @@ struct ImagePickerView {
     private var camera: Bool
     
     
-    
-    
 }
