@@ -12,6 +12,6 @@ import UIKit
 
 struct ImagePickerView {
     
-    
+    private let completion: (UIImage?) -> ()
     
 }
