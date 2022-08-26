@@ -31,3 +31,17 @@ struct optionalResizableImage: View {
     }
 }
 
+extension UIImage {
+    
+    func fixorientation() -> UIImage? {
+        
+        UIGraphicsBeginImageContext(self.size)
+        self.draw(at: .zero)
+        
+        let newImage = UIGraphicsGetImageFromCurrentImageContext()
+        
+        UIGraphicsEndImageContext()
+        
+        return newImage
+    }
+}
