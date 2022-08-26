@@ -55,9 +55,9 @@
 			children = (
 				A7C18F1228B8F4D700ACBA57 /* ImageSimilarityAppApp.swift */,
 				A7C18F1428B8F4D700ACBA57 /* ContentView.swift */,
+				A7C18F2428B8F80600ACBA57 /* ImagePickerView.swift */,
 				A7C18F1628B8F4D800ACBA57 /* Assets.xcassets */,
 				A7C18F1828B8F4D800ACBA57 /* Preview Content */,
-				A7C18F2428B8F80600ACBA57 /* ImagePickerView.swift */,
 			);
 			path = ImageSimilarityApp;
 			sourceTree = "<group>";

@@ -13,5 +13,9 @@ import UIKit
 struct ImagePickerView {
     
     private let completion: (UIImage?) -> ()
+    private var camera: Bool
+    
+    
+    
     
 }
