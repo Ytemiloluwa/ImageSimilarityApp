@@ -13,6 +13,7 @@
 		A7C18F1A28B8F4D800ACBA57 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7C18F1928B8F4D800ACBA57 /* Preview Assets.xcassets */; };
 		A7C18F2528B8F80600ACBA57 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C18F2428B8F80600ACBA57 /* ImagePickerView.swift */; };
 		A7C18F2728B8FDD500ACBA57 /* optionalResizableImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C18F2628B8FDD500ACBA57 /* optionalResizableImage.swift */; };
+		A7C18F2928B9006200ACBA57 /* Similarity.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C18F2828B9006200ACBA57 /* Similarity.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		A7C18F1928B8F4D800ACBA57 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A7C18F2428B8F80600ACBA57 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 		A7C18F2628B8FDD500ACBA57 /* optionalResizableImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = optionalResizableImage.swift; sourceTree = "<group>"; };
+		A7C18F2828B9006200ACBA57 /* Similarity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Similarity.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A7C18F1628B8F4D800ACBA57 /* Assets.xcassets */,
 				A7C18F1828B8F4D800ACBA57 /* Preview Content */,
 				A7C18F2628B8FDD500ACBA57 /* optionalResizableImage.swift */,
+				A7C18F2828B9006200ACBA57 /* Similarity.swift */,
 			);
 			path = ImageSimilarityApp;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				A7C18F2728B8FDD500ACBA57 /* optionalResizableImage.swift in Sources */,
 				A7C18F2528B8F80600ACBA57 /* ImagePickerView.swift in Sources */,
 				A7C18F1328B8F4D700ACBA57 /* ImageSimilarityAppApp.swift in Sources */,
+				A7C18F2928B9006200ACBA57 /* Similarity.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
